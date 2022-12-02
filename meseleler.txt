@@ -1,0 +1,11 @@
+Can Transceiver, küçük mikrokontrolcü, hafıza, clock seçimi ve güç hesabı
+Batarya currenti etkisi falan
+EPS'de converterlar non-idealities
+
+gerekli hafıza hesabı
+
+program hafızası rad-hard?
+
+
+
+fpga ve gerekli diğer
