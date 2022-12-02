@@ -4,7 +4,7 @@ EPS'de converterlar non-idealities
 
 gerekli hafıza hesabı
 
-program hafızası rad-hard?
+program hafızası rad-hard? 
 
 
 
